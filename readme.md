@@ -2,7 +2,7 @@
 
 Just a simple Phaser boilerplate using [Parcel.js](https://parceljs.org/) bundler.
 
-Usage:
+##### Usage:
 
 Clone the repo to your desired location. Then execute the following commands:
 
@@ -24,6 +24,6 @@ npm install
 npm run dev
 ```
 
-That's it, if you head to http:/localhost:1234, you will be greeted with the StartScene.
+That's it, if you head to [http://localhost:1234](http://localhost:1234), you will be greeted with the StartScene.
 
 Have fun creating, and good luck! 😎☕️
