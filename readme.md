@@ -1,6 +1,6 @@
 ### Phaser Parcel Boilerplate
 
-Just a simple Phaser boilerplate using [Parcel.js](https://parceljs.org/) bundler.
+Just a simple [Phaser](https://phaser.io/) boilerplate using [Parcel.js](https://parceljs.org/) bundler.
 
 ##### Usage:
 
